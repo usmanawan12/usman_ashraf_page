@@ -1,54 +1,71 @@
-<header>
+# Business Intelligence Portfolio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to my Business Intelligence portfolio! This repository showcases my skills, projects, and expertise in BI, data analysis, and data visualization.
 
-# GitHub Pages
+## 🚀 Skills & Expertise
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+### Technical Skills
+- **Data Warehousing**: Designing and implementing star/snowflake schemas, ETL processes
+- **BI Tools**: Power BI, Tableau, Looker, QlikView, SAP BusinessObjects
+- **Data Modeling**: Dimensional modeling, relational databases, DAX, MDX
+- **SQL**: Advanced querying, optimization, PostgreSQL, MySQL, SQL Server
+- **ETL/ELT**: SSIS, Informatica, Talend, Alteryx, Apache Airflow
+- **Cloud Platforms**: Azure Synapse, AWS Redshift, Google BigQuery, Snowflake
+- **Programming**: Python (Pandas, NumPy), R for data analysis
+- **Data Governance**: Data quality, metadata management, master data management
 
-</header>
+### Business Skills
+- KPI development & dashboarding
+- Requirements gathering & stakeholder management
+- Data storytelling & visualization best practices
+- Predictive analytics & business forecasting
+- Performance metrics & ROI analysis
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## 📂 Project Showcase
 
-## Step 1: Enable GitHub Pages
+### [Retail Sales Analysis Dashboard](project1_link)
+- Built interactive Power BI dashboard tracking 50+ KPIs across 200 stores
+- Implemented incremental refresh for 10M+ row dataset
+- Created DAX measures for YoY growth, sales per square foot, and customer segmentation
+- **Technologies**: Power BI, SQL Server, DAX
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+### [Supply Chain Optimization Analysis](project2_link)
+- Developed Tableau dashboards identifying $2.4M in potential logistics savings
+- Designed star schema data model in Snowflake
+- Automated data pipeline using Python and Airflow
+- **Technologies**: Tableau, Snowflake, Python, Airflow
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+### [Customer Churn Prediction Model](project3_link)
+- Built predictive model with 87% accuracy identifying at-risk customers
+- Created operational dashboard for customer success team
+- **Technologies**: Python (scikit-learn), Power BI, Azure ML
 
-### :keyboard: Activity: Enable GitHub Pages
+## 🛠️ Tools & Technologies
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+**Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white)
 
-<footer>
+**Databases & Warehousing**  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**ETL & Data Pipelines**  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge)
+![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=Talend&logoColor=white)
 
----
+## 📊 Certifications
+- Microsoft Certified: Power BI Data Analyst Associate
+- Tableau Desktop Certified Associate
+- Google Data Analytics Professional Certificate
+- AWS Certified Data Analytics - Specialty
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 📫 Let's Connect
+I'm always interested in discussing BI projects, data challenges, or collaboration opportunities.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](your_portfolio_url)
