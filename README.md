@@ -1,33 +1,71 @@
+# Business Intelligence Portfolio
 
+Welcome to my Business Intelligence portfolio! This repository showcases my skills, projects, and expertise in BI, data analysis, and data visualization.
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+## 🚀 Skills & Expertise
 
-## Step 2: Configure your site
+### Technical Skills
+- **Data Warehousing**: Designing and implementing star/snowflake schemas, ETL processes
+- **BI Tools**: Power BI, Tableau, Looker, QlikView, SAP BusinessObjects
+- **Data Modeling**: Dimensional modeling, relational databases, DAX, MDX
+- **SQL**: Advanced querying, optimization, PostgreSQL, MySQL, SQL Server
+- **ETL/ELT**: SSIS, Informatica, Talend, Alteryx, Apache Airflow
+- **Cloud Platforms**: Azure Synapse, AWS Redshift, Google BigQuery, Snowflake
+- **Programming**: Python (Pandas, NumPy), R for data analysis
+- **Data Governance**: Data quality, metadata management, master data management
 
-_You turned on GitHub Pages! :tada:_
+### Business Skills
+- KPI development & dashboarding
+- Requirements gathering & stakeholder management
+- Data storytelling & visualization best practices
+- Predictive analytics & business forecasting
+- Performance metrics & ROI analysis
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+## 📂 Project Showcase
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+### [Retail Sales Analysis Dashboard](project1_link)
+- Built interactive Power BI dashboard tracking 50+ KPIs across 200 stores
+- Implemented incremental refresh for 10M+ row dataset
+- Created DAX measures for YoY growth, sales per square foot, and customer segmentation
+- **Technologies**: Power BI, SQL Server, DAX
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+### [Supply Chain Optimization Analysis](project2_link)
+- Developed Tableau dashboards identifying $2.4M in potential logistics savings
+- Designed star schema data model in Snowflake
+- Automated data pipeline using Python and Airflow
+- **Technologies**: Tableau, Snowflake, Python, Airflow
 
-### :keyboard: Activity: Configure your site
+### [Customer Churn Prediction Model](project3_link)
+- Built predictive model with 87% accuracy identifying at-risk customers
+- Created operational dashboard for customer success team
+- **Technologies**: Python (scikit-learn), Power BI, Azure ML
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+## 🛠️ Tools & Technologies
 
+**Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white)
 
+**Databases & Warehousing**  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ETL & Data Pipelines**  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge)
+![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=Talend&logoColor=white)
+
+## 📊 Certifications
+- Microsoft Certified: Power BI Data Analyst Associate
+- Tableau Desktop Certified Associate
+- Google Data Analytics Professional Certificate
+- AWS Certified Data Analytics - Specialty
+
+## 📫 Let's Connect
+I'm always interested in discussing BI projects, data challenges, or collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](your_portfolio_url)
