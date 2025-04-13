@@ -66,6 +66,6 @@ Welcome to my Business Intelligence portfolio! This repository showcases my skil
 ## 📫 Let's Connect
 I'm always interested in discussing BI projects, data challenges, or collaboration opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhammad-usman-ashraf1/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-ashraf1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musmanashraf635@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](your_portfolio_url)
